@@ -4,7 +4,7 @@
 ## I'm a FullStack Developer Student!
 - 🌱 I’m currently Learning Next.js and TypeScript.
 - 🥅 Goals for 2022: To continue to improve my knowledge and expand it even more.
-- ⚡ Fun fact: Fun fact: I love watching series and playing sports.
+- ⚡ Fun fact: I love watching series and playing sports.
 
 ---
 

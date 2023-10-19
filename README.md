@@ -28,23 +28,19 @@
 
 ## 👨‍💻 Languages and Tools
 
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=2dacde&logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&logo=javascript&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/static/v1?label=&message=TailwindCSS&color=06B6D4&logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
+![ReactJS](https://img.shields.io/static/v1?label=&message=reactjs&color=149ECA&logo=react&logoColor=white&style=for-the-badge)
+![NextJS](https://img.shields.io/static/v1?label=&message=NextJS&color=0d0d0d&logo=next.js&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
+![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=0d0d0d&logo=git&logoColor=orange&style=for-the-badge)
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=electron&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![Next](https://img.shields.io/badge/-Next-gray?style=flat&logo=heroku&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/fabrinucci)](https://github.com/fabrinucci)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/fabrinucci)](https://github.com/fabrinucci)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/fabrinucci)](https://github.com/fabrinucci) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/fabrinucci)](https://gitlab.com/fabrinucci) 
+![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=026E00&logo=node.js&logoColor=white&style=for-the-badge)
+![MySql](https://img.shields.io/static/v1?label=&message=MySql&color=136494&logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=white&logo=mongodb&logoColor=47A248&style=for-the-badge)
 
 
 ---

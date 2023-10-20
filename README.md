@@ -1,25 +1,25 @@
 # Hi there, I'm Fabrizio Nucci 👋
 
 
-## I'm a Frontend Developer!
-- 🌱 I’m currently Learning Next.js and TypeScript.
-- 🥅 Goals for 2023: To continue to improve my knowledge and expand it even more.
-- ⚡ Fun fact: I love watching series and playing sports.
+## I'm a Frontend Developer, looking to become a Fullstack Developer!
+- 🌱 I’m currently learning React, Node.js MongoDB and MySQL.
+- 🥅 Goals for 2023: To continue improving my knowledge and experience in frontend and complement it with backend and databases.
+- ⚡ Fun fact: I love being with my cats and playing football.
 
 ---
 
 ## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/fabrizio-nucci-1061271b9/">
+  
+  <a href="https://www.linkedin.com/in/fabrinucci/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
+
+  <a href="mailto:fabrinuccidev@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>  &nbsp;&nbsp;
   
   <a href="https://twitter.com/FabrizioDev">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:fabrinuccidev@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
 ---

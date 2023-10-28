@@ -36,11 +36,12 @@
 ![ReactJS](https://img.shields.io/static/v1?label=&message=reactjs&color=149ECA&logo=react&logoColor=white&style=for-the-badge)
 ![NextJS](https://img.shields.io/static/v1?label=&message=NextJS&color=0d0d0d&logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
-![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=0d0d0d&logo=git&logoColor=orange&style=for-the-badge)
+![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=070707&logo=astro&logoColor=white&style=for-the-badge)
 
 ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=026E00&logo=node.js&logoColor=white&style=for-the-badge)
 ![MySql](https://img.shields.io/static/v1?label=&message=MySql&color=136494&logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=white&logo=mongodb&logoColor=47A248&style=for-the-badge)
+![GIT](https://img.shields.io/static/v1?label=&message=GIT&color=0d0d0d&logo=git&logoColor=orange&style=for-the-badge)
 
 
 ---
